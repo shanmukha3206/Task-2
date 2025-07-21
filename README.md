@@ -1,18 +1,18 @@
-# Task 2 - Stock Portfolio Tracker
+# Task 2 - Hangman Game (Python)
 
-This project is a simple Python script that helps users track their stock investments. It calculates the total investment value based on hardcoded stock prices and user input.
+This project is a simple command-line Hangman game built with Python. The user tries to guess the hidden word by entering one letter at a time. The game ends when the user either guesses the word or runs out of attempts.
 
-## 📌 Features
-- Takes stock name and quantity as input
-- Uses predefined stock prices (dictionary)
-- Calculates and displays total investment
-- Optionally saves the summary to a `.txt` file
+## 🎮 Features
+- Randomly selects a word from a list
+- Tracks guessed letters and remaining attempts
+- Displays the current word status with blanks and letters
+- Notifies win or loss with the correct word
 
 ## 🧰 Technologies Used
 - Python
-- Dictionary
-- Input/Output
-- File Handling
+- Loops
+- Conditional logic
+- Lists and strings
 
 ## 🚀 How to Run
 1. Ensure Python is installed on your system.
